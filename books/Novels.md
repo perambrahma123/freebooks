@@ -1,1 +1,7 @@
-# Paste the links of free novels available in internet
+# Paste the links of free novels available on the internet
+
+* [How to write a novel(1901)](https://manybooks.net/book/150965/read) (HTML)
+* [The Shooting of Dan McGrew, A Novel](https://manybooks.net/book/168489/read) (HTML)
+* [The Great Gatsby](https://www.pdfbooksworld.com/bibi/pre.html?book=50.epub) - F. Scott Fitzgerald
+* [To Kill a Mockingbird](https://giove.isti.cnr.it/demo/eread/libri/angry/mockingbird.pdf) - Harper Lee (PDF)
+* [Nineteen Eighty-Four](https://www.planetebook.com/free-ebooks/1984.pdf) - George Orwell (PDF)
