@@ -1,4 +1,4 @@
-name: free-programming-books-lint
+name: freebooks-lint
 
 on: [push, pull_request]
 
@@ -16,8 +16,5 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: '16.x'
-    - run: npm install -g free-programming-books-lint
+    - run: npm install -g freebooks-lint
     - run: fpb-lint ./books/
-    - run: fpb-lint ./casts/
-    - run: fpb-lint ./courses/
-    - run: fpb-lint ./more/
