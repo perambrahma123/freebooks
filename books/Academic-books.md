@@ -2,6 +2,6 @@
 
 examples of academic books are
 1) Engineering books
-2) Programming books
+2) hardware machine books
 3) Medical books
-4) hardware machines books etc
+4) Programming books etc
