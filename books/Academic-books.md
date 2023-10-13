@@ -1,6 +1,5 @@
 # Paste the links of free academic books available in internet
 
-<div align="center" markdown="1">
 
 examples of academic books are
 1) Engineering books
