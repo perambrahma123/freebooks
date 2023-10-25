@@ -4,11 +4,17 @@
 
 ## Intro
 
-This list was created to make available all the free books in one place. It can be any book if it is available for free then push it to this repo so that others can access and read this.
-## Resources
+Title: Catalog of Free Books in Multiple Languages Available Online 
 
+## Resources
+Introduction:
+This catalog has been compiled to provide a central repository for free books available on the internet. Whether it's a classic literary work or a contemporary publication, if it's accessible for free, we encourage you to contribute to this repository. By doing so, you're helping others discover and access a wealth of literary resources.
 This project lists books and other resources grouped by genres:
 these are the links
+
+Resources:
+This project categorizes books and other reading materials into various genres. Below are the links to these categorized resources: 
+
 </div>
 
 [Academic books](books/Academic-books.md)
